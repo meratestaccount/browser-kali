@@ -35,9 +35,7 @@ x11vnc \
 xvfb \
 wget \
 python \
-python-numpy \
 unzip \
-kali-linux-top10 \
 menu && \
 cd /root && git clone https://github.com/kanaka/noVNC.git && \
 cd noVNC/utils && git clone https://github.com/kanaka/websockify websockify && \
